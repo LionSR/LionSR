@@ -10,13 +10,16 @@ I’m a physics PhD candidate at the **Max Planck Institute of Quantum Optics an
 
 ## 🤖 Building AI theorists
 
-**[TeXRA](https://texra.ai) · Agent harness for theoretical research**  
+**[TeXRA](https://texra.ai) · Agent harness for theoretical research**
+
 I designed and built a system that coordinates specialist agents for derivation, computation, review, and Lean formalization. It connects language models to **Wolfram algebra and Lean proofs**, making tool feedback part of the research process. The engineering spans TypeScript, editor integrations, a terminal CLI, model-provider interfaces, and long-running research sessions.
 
-**[FormalFlow / MIPStarRE](https://github.com/LionSR/MIPStarRE) · Long-horizon reasoning with formal verification**  
+**[FormalFlow / MIPStarRE](https://github.com/LionSR/MIPStarRE) · Long-horizon reasoning with formal verification**
+
 With collaborators, I developed a workflow of shared mathematical blueprints, agent proof development, and human supervision. We formalized the quantum soundness of the classical low individual-degree test, a core theorem underlying MIP\* = RE. The proof effort took **63 days**; the later study snapshot contains **126,367 lines of Lean**. A central challenge was **statement fidelity**: ensuring the agents proved the intended mathematics, not merely something that compiled. [Paper →](https://arxiv.org/abs/2609.19814)
 
-**[Lean-verified quantum codes](https://github.com/LionSR/lean-qec-sslp) · Discovery with exact checks**  
+**[Lean-verified quantum codes](https://github.com/LionSR/lean-qec-sslp) · Discovery with exact checks**
+
 A human-guided multi-agent workflow combined symbolic synthesis, search, and formal verification to produce a catalogue of **14,116 certified quantum error-correcting codes**. This connects open-ended candidate generation to independently checkable mathematical results. [Paper →](https://arxiv.org/abs/2510.20728)
 
 ## 🔬 Research foundations
